@@ -1,7 +1,7 @@
 <!--
  * @Author: Ken Kaneki
  * @Date: 2021-11-10 09:26:55
- * @LastEditTime: 2021-11-14 14:38:40
+ * @LastEditTime: 2021-11-22 20:37:56
  * @Description: README
 -->
 # Program Description
@@ -13,7 +13,7 @@ sh elf_config.sh
 ## 开发环境
 1. **Debian GNU/Linux 10 (64bit buster)**
 2. **VS Code**
-3. C Language & sh
+3. **C Language & sh**
 ## 功能
 * -h
 ```sh
